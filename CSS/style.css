@@ -7,7 +7,7 @@ body{
 }
 
 .quem-somos{
-    background-color: #008b8b;
+    background-color: #c6c9f0;
     color:beige
 }
 
@@ -16,6 +16,11 @@ body{
 }
 
 .parceiros{
-    background-color: #6699ff;
+    background-color: #b9b8eb;
     padding: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: beige;
 }
